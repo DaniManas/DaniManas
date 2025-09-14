@@ -73,6 +73,3 @@
 <a href="https://powerbi.microsoft.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" height="40"/>
 </a>
-<a href="https://plotly.com/dash/" target="_blank">
-  <img src="https://raw.githubusercontent.com/plotly/dash-docs/master/images/dash-logo.png" alt="dash" height="40"/>
-</a>
