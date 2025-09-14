@@ -3,13 +3,10 @@
 <h3 align="center">AI Engineer | Generative AI & Agentic AI Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-- 🔭 I’m currently working on **building AI agents that collaborate as a team, orchestrating multiple specialized assistants to work together seamlessly on complex workflows**
-
-- 🌱 I’m currently learning **AI Agents & Agentic AI**
-
-- 📫 How to reach me **manasdani999@gmail.com**
-
-- ⚡ Fun fact **The Transformer architecture that powers GPT-like models was inspired by how humans pay ‘attention’ to different parts of input—reinventing sequence processing in AI.**
+- 🔭 I’m currently building **production-grade AI agents** with LangChain, LangGraph, and RAG pipelines that orchestrate multiple assistants for complex workflows.  
+- 🌱 I’m diving deeper into **LLM evaluation, observability, and agent architectures**.  
+- 📫 Reach me at **manasdani999@gmail.com**  
+- ⚡ Focused on **making AI measurable, trustworthy, and scalable** for real-world applications.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
