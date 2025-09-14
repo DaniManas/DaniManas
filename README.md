@@ -50,14 +50,29 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" height="40"/></a>
 
   <!-- Development & DevOps -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" height="40"/></a>
-  <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" height="40"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/>
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" height="40"/>
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" height="40"/>
+</a>
+<a href="https://streamlit.io/" target="_blank">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" height="40"/>
+</a>
+<a href="https://react.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="40"/>
+</a>
 
-  <!-- Visualization -->
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" height="40"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" height="40"/></a>
-  <a href="https://plotly.com/dash/" target="_blank"><img src="https://dash.plotly.com/assets/images/dash-logo.png" alt="dash" height="40"/></a>
-</p>
+<!-- Visualization -->
+<a href="https://www.tableau.com/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" height="40"/>
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" height="40"/>
+</a>
+<a href="https://plotly.com/dash/" target="_blank">
+  <img src="https://raw.githubusercontent.com/plotly/dash-docs/master/images/dash-logo.png" alt="dash" height="40"/>
+</a>
