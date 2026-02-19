@@ -12,9 +12,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manasdani-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasdani)
 [![Medium](https://img.shields.io/badge/Medium-@manasdani999-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@manasdani999)
 [![Portfolio](https://img.shields.io/badge/Portfolio-magical--portfolio-7c8cf8?style=flat-square&logo=vercel&logoColor=white)](https://magical-portfolio-omega.vercel.app)
-[![Email](https://img.shields.io/badge/Email-manasdani999@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manasdani999@gmail.com)
+[![Email](https://img.shields.io/badge/Email-danimanas28@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danimanas28@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=manasdani&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=DaniManas&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -30,7 +30,7 @@ $ cat current_mission.txt
   🌱  Diving deep into LLM evaluation, observability & agent architectures
   ⚡  Making AI measurable, trustworthy, and scalable for the real world
   ✍️  Writing about Agentic AI on Medium
-  📫  manasdani999@gmail.com
+  📫  danimanas28@gmail.com
 
 $ ls skills/
   agentic_systems/   rag_pipelines/   llm_evaluation/   data_engineering/
@@ -80,20 +80,20 @@ Observability dashboards, tracing, benchmarking, hallucination detection & trust
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manasdani&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=7c8cf8&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasdani&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniManas&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=7c8cf8&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniManas&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=manasdani&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&fire=7c8cf8&currStreakLabel=00d4ff&sideNums=c9d1d9&currStreakNum=00d4ff&dates=c9d1d9&sideLabels=7c8cf8" />
+  <img src="https://streak-stats.demolab.com?user=DaniManas&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&fire=7c8cf8&currStreakLabel=00d4ff&sideNums=c9d1d9&currStreakNum=00d4ff&dates=c9d1d9&sideLabels=7c8cf8" />
 </div>
 
 <!-- Contribution Snake -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manasdani/manasdani/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manasdani/manasdani/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/manasdani/manasdani/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniManas/DaniManas/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaniManas/DaniManas/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/DaniManas/DaniManas/output/github-snake-dark.svg" />
   </picture>
 </div>
 
