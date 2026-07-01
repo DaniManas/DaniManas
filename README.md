@@ -34,7 +34,7 @@ $ cat current_mission.txt
   🌱  Deepening agent memory, RAG quality, and LLM evaluation loops
   ⚡  Turning AI demos into measurable, production-facing systems
   ✍️  Writing about Agentic AI on Medium
-  📫  danimanas28@gmail.com
+  📫  manasdani999@gmail.com
 
 $ ls skills/
   agentic_systems/   rag_pipelines/   llm_evaluation/   data_engineering/
