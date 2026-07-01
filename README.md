@@ -1,84 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:12372A,100:00D4FF&height=190&section=header&text=Manas%20Dani&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20building%20agents,%20RAG%20systems,%20and%20evaluation%20tools&descAlignY=60&descColor=C9D1D9" width="100%" alt="Manas Dani header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:14142b,100:1a1a3d&height=220&section=header&text=Manas%20Dani&fontSize=58&fontColor=D4AF37&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Building%20Systems%20That%20Reason,%20Retrieve%20%26%20Deliver&descAlignY=58&descSize=17&descColor=F0EAD6" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-magical--portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://magical-portfolio-omega.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-manasdani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasdani)
-[![Medium](https://img.shields.io/badge/Medium-@manasdani999-111111?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@manasdani999)
-[![Email](https://img.shields.io/badge/Email-danimanas28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danimanas28@gmail.com)
+<a href="https://linkedin.com/in/manasdani"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
+<a href="https://magical-portfolio-omega.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=D4AF37" /></a>
+<a href="https://medium.com/@manasdani999"><img src="https://img.shields.io/badge/Writing-0a0a0a?style=for-the-badge&logo=medium&logoColor=D4AF37" /></a>
+<a href="mailto:danimanas28@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
 
 </div>
 
-```bash
-$ whoami
-Manas Dani
-AI Engineer | MS Data Science @ Indiana University Bloomington
+<br>
 
-$ current_focus
-LangGraph agents  |  RAG systems  |  LLM evaluation  |  AI product engineering
+### I build the systems that sit between a model and something that actually works.
 
-$ build_style
-Ship small, test the hard parts, measure what matters.
-```
+Multi-agent pipelines, retrieval that doesn't hallucinate, and evaluation frameworks that catch problems before a user does. MS Data Science, Indiana University Bloomington. Currently looking for full-time AI Engineer / ML Engineer roles.
 
-## What I Build
+<br>
+
+## Proof, not just tools
 
 <table>
-  <tr>
-    <td width="33%">
-      <h3>Agentic AI</h3>
-      LangGraph workflows, PR review agents, tool use, memory, tracing, and production feedback loops.
-    </td>
-    <td width="33%">
-      <h3>RAG + Evaluation</h3>
-      Retrieval systems, vector search, prompt comparisons, LangSmith traces, cost/latency tracking.
-    </td>
-    <td width="33%">
-      <h3>ML Products</h3>
-      FastAPI services, batch scoring, drift monitoring, dashboards, Docker, and cloud deploys.
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**Hypertension risk model — NIH All of Us**
+GatorTron clinical embeddings + XGBoost on real-world EHR data.
+`0.8024 AUROC`
+
+</td>
+<td width="50%" valign="top">
+
+**Neural compression pipeline — hackathon build**
+CNN-based OCR paired with adaptive Huffman coding.
+`~99% accuracy on MNIST`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**PR Review Agent — production architecture**
+LangGraph agent on AWS Lambda, evaluated continuously with DeepEval and traced through LangSmith.
+`LLM-as-judge evaluation loop`
+
+</td>
+<td width="50%" valign="top">
+
+**ResearchMCP — open source**
+An MCP server that lets any LLM search and reason over academic literature directly.
+`Built for the agent ecosystem, not just for humans`
+
+</td>
+</tr>
 </table>
 
-## Featured Work
+<br>
 
-| Project | What it proves | Stack |
+## Selected work
+
+| Project | What it does | Stack |
 |---|---|---|
-| [PR Code Review Agent](https://github.com/DaniManas/pr-review-agent) | Deployed LangGraph agent that reviews GitHub PR diffs, retrieves vulnerability patterns from Weaviate, posts comments, stores runs in Supabase, and traces in LangSmith. | LangGraph, Claude, Weaviate, Supabase, LangSmith, FastAPI, AWS Lambda |
-| [GrantPilot Transit](https://github.com/DaniManas/transit-grant-webapp) | Grant-matching app for small transit agencies with cite-or-skip drafting so AI never invents missing facts. | React, TypeScript, Vite, Express, Anthropic SDK, Vitest |
-| [SynthLift](https://github.com/DaniManas/SynthLift) | Tested whether LoRA-generated synthetic defects improve rare-defect recall. Result: no measurable gain, validated with 6-fold cross-validation. | PyTorch, Stable Diffusion, LoRA, ResNet-18, scikit-learn |
-| [ChurnPilot AI](https://github.com/DaniManas/churnpilot-ai) | Churn prediction platform with API scoring, async batch jobs, PSI drift monitoring, offline RAG assistant, and Streamlit dashboard. | FastAPI, scikit-learn, FAISS, Streamlit, Docker, AWS EC2 |
+| **Archyx AI** | RAG platform for grounded, source-cited answers over private documents | LangChain · Gemini 2.0 Flash · ChromaDB |
+| **PR Review Agent** | Automated code review agent with a full evaluation pipeline behind it | LangGraph · AWS Lambda · Weaviate · LangSmith |
+| **BlogGenie** | Seven-node multi-agent pipeline that plans, drafts, and edits long-form content | LangGraph · LLM orchestration |
+| **ChurnPilot AI** | Production churn model with live PSI drift monitoring, not a notebook demo | Python · scikit-learn · Monitoring |
+| **SynthLift** | LoRA fine-tuning on Stable Diffusion 1.5 for industrial defect generation | Diffusers · MVTec AD benchmark |
+| **ResearchMCP** | Open-source MCP server for academic paper search and synthesis | Python · MCP |
 
-## Recent Signals
+*(swap in your actual repo links here, I kept this table link-free since I can't verify exact URLs)*
 
-- Built an end-to-end PR review agent with production webhook flow, eval dashboard, prompt versioning, and LangSmith observability.
-- Shipped a grant-writing workflow that uses deterministic fallbacks when model output risks unsupported claims.
-- Ran a negative-result ML experiment and documented why synthetic data failed instead of hiding the result.
-- Built ML APIs with auth, monitoring, batch processing, docs, and tests.
+<br>
 
-## Tech I Reach For
+## How I think about this work
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=00D4FF" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+Most people ship a demo and call it done. I care about the parts after the demo: does it fail gracefully, can you measure when it's wrong, does it hold up outside the happy path. That's the gap between "it works" and "it's trustworthy," and it's where most of my recent projects live.
 
-## Writing
+<br>
 
-- [Why LangChain Isn't Enough](https://medium.com/@manasdani999/why-langchain-isnt-enough-5-surprising-truths-about-building-real-world-ai-agents-with-langgraph-7b97460c0882)
-- [Beyond Answering Questions](https://medium.com/@manasdani999/beyond-answering-questions-how-agentic-ai-is-redefining-how-we-work-3d5c651a8fa4)
+## Stack
+
+**Agents & LLMs** `LangChain` `LangGraph` `OpenAI` `HuggingFace` `PyTorch`
+**Retrieval & Data** `ChromaDB` `Pinecone` `PostgreSQL` `Pandas` `PySpark`
+**Shipping it** `FastAPI` `AWS` `Docker` `React` `Git`
+
+<br>
+
+## Currently
+
+- Deepening agent memory architectures and multi-agent orchestration patterns
+- Writing about agentic AI systems on Medium
+- Open to AI Engineer / ML Engineer roles, OPT now, will need H-1B sponsorship down the line
+
+<br>
 
 <div align="center">
-  <sub>Building useful AI systems, then measuring whether they actually work.</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=DaniManas&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=F0EAD6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniManas&layout=compact&theme=transparent&hide_border=true&title_color=D4AF37&text_color=F0EAD6&langs_count=6" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/DaniManas/DaniManas/output/github-snake-dark.svg" width="100%"/>
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a3d,50:14142b,100:0a0a0a&height=120&section=footer"/>
+
 </div>
