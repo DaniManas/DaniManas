@@ -1,20 +1,24 @@
-<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Manas%20Dani&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20Architect&descAlignY=60&descColor=7c8cf8" width="100%"/>
+<img src="./assets/hero.svg" width="100%" alt="Manas Dani - Forward Deployed AI Engineer" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%F0%9F%A4%96;Building+Production-Grade+AI+Agents;LangGraph+%26+RAG+Architect;LLM+Evaluation+%26+Observability;Making+AI+Measurable+%26+Trustworthy" alt="Typing SVG" />
-</a>
-
-<br/>
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manasdani-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasdani)
 [![Medium](https://img.shields.io/badge/Medium-@manasdani999-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@manasdani999)
 [![Portfolio](https://img.shields.io/badge/Portfolio-magical--portfolio-7c8cf8?style=flat-square&logo=vercel&logoColor=white)](https://magical-portfolio-omega.vercel.app)
 [![Email](https://img.shields.io/badge/Email-danimanas28@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danimanas28@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=DaniManas&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)
+<br />
+<br />
+
+<table>
+<tr>
+<td align="center"><b>LangGraph PR Review Agent</b><br/>AWS Lambda + LangSmith traces</td>
+<td align="center"><b>Citation-Safe RAG Drafting</b><br/>grounded generation with fallbacks</td>
+<td align="center"><b>ML Platform Monitoring</b><br/>drift checks + production APIs</td>
+</tr>
+</table>
 
 </div>
 
@@ -23,12 +27,12 @@
 <!-- Terminal Block -->
 ```bash
 $ whoami
-  Manas Dani — AI Engineer | MS Data Science @ Indiana University Bloomington
+  Manas Dani — Forward Deployed AI Engineer | MS Data Science @ Indiana University Bloomington
 
 $ cat current_mission.txt
-  🔭  Building production-grade AI agents with LangGraph, LangChain & RAG
-  🌱  Diving deep into LLM evaluation, observability & agent architectures
-  ⚡  Making AI measurable, trustworthy, and scalable for the real world
+  🔭  Building agentic AI systems that retrieve, reason, evaluate, and ship
+  🌱  Deepening agent memory, RAG quality, and LLM evaluation loops
+  ⚡  Turning AI demos into measurable, production-facing systems
   ✍️  Writing about Agentic AI on Medium
   📫  danimanas28@gmail.com
 
