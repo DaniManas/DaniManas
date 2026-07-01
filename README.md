@@ -79,13 +79,6 @@ Ship small, test the hard parts, measure what matters.
 - [Why LangChain Isn't Enough](https://medium.com/@manasdani999/why-langchain-isnt-enough-5-surprising-truths-about-building-real-world-ai-agents-with-langgraph-7b97460c0882)
 - [Beyond Answering Questions](https://medium.com/@manasdani999/beyond-answering-questions-how-agentic-ai-is-redefining-how-we-work-3d5c651a8fa4)
 
-## GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DaniManas&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniManas&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=C9D1D9&bg_color=0D1117&langs_count=8" alt="Top languages" />
-</div>
-
 <div align="center">
   <sub>Building useful AI systems, then measuring whether they actually work.</sub>
 </div>
