@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manasdani-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasdani)
 [![Medium](https://img.shields.io/badge/Medium-@manasdani999-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@manasdani999)
 [![Portfolio](https://img.shields.io/badge/Portfolio-magical--portfolio-7c8cf8?style=flat-square&logo=vercel&logoColor=white)](https://magical-portfolio-omega.vercel.app)
-[![Email](https://img.shields.io/badge/Email-danimanas28@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danimanas28@gmail.com)
+[![Email](https://img.shields.io/badge/Email-manasdani999@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manasdani999@gmail.com)
 
 <br />
 <br />
