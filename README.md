@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a3d&height=200&section=header&text=Manas%20Dani&fontSize=54&fontColor=D4AF37&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20Building%20Systems%20That%20Reason%20And%20Retrieve&descAlignY=58&descSize=16&descColor=F0EAD6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a3d&height=220&section=header&text=Manas%20Dani&fontSize=58&fontColor=D4AF37&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20Building%20Systems%20That%20Reason%20And%20Retrieve&descAlignY=58&descSize=17&descColor=F0EAD6" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/manasdani)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=D4AF37)](https://magical-portfolio-omega.vercel.app)
-[![Writing](https://img.shields.io/badge/Writing-black?style=for-the-badge&logo=medium&logoColor=D4AF37)](https://medium.com/@manasdani999)
-[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:danimanas28@gmail.com)
+<a href="https://linkedin.com/in/manasdani"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=D4AF37" /></a>
+<a href="https://magical-portfolio-omega.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=D4AF37" /></a>
+<a href="https://medium.com/@manasdani999"><img src="https://img.shields.io/badge/Writing-0a0a0a?style=for-the-badge&logo=medium&logoColor=D4AF37" /></a>
+<a href="mailto:danimanas28@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
 
 </div>
 
@@ -17,7 +17,7 @@ Multi-agent pipelines, retrieval that doesn't hallucinate, and evaluation framew
 
 <br>
 
-![](https://img.shields.io/badge/PROOF,_NOT_JUST_TOOLS-D4AF37?style=flat-square)
+## Proof, not just tools
 
 <table>
 <tr>
@@ -56,7 +56,7 @@ An MCP server that lets any LLM search and reason over academic literature direc
 
 <br>
 
-![](https://img.shields.io/badge/SELECTED_WORK-D4AF37?style=flat-square)
+## Selected work
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -71,26 +71,21 @@ An MCP server that lets any LLM search and reason over academic literature direc
 
 <br>
 
-![](https://img.shields.io/badge/HOW_I_THINK_ABOUT_THIS-D4AF37?style=flat-square)
+## How I think about this work
 
 Most people ship a demo and call it done. I care about the parts after the demo: does it fail gracefully, can you measure when it's wrong, does it hold up outside the happy path. That's the gap between "it works" and "it's trustworthy," and it's where most of my recent projects live.
 
 <br>
 
-![](https://img.shields.io/badge/STACK-D4AF37?style=flat-square)
+## Stack
 
-**Agents & LLMs**
-![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square&logo=langchain&logoColor=D4AF37) ![LangGraph](https://img.shields.io/badge/LangGraph-black?style=flat-square&logo=langchain&logoColor=D4AF37) ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai&logoColor=D4AF37) ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square&logo=huggingface&logoColor=D4AF37) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch&logoColor=D4AF37)
-
-**Retrieval & Data**
-![ChromaDB](https://img.shields.io/badge/ChromaDB-black?style=flat-square&logoColor=D4AF37) ![Pinecone](https://img.shields.io/badge/Pinecone-black?style=flat-square&logoColor=D4AF37) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=D4AF37) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=D4AF37) ![PySpark](https://img.shields.io/badge/PySpark-black?style=flat-square&logo=apachespark&logoColor=D4AF37)
-
-**Shipping it**
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi&logoColor=D4AF37) ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws&logoColor=D4AF37) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=D4AF37) ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=D4AF37) ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=D4AF37)
+**Agents & LLMs** `LangChain` `LangGraph` `OpenAI` `HuggingFace` `PyTorch`
+**Retrieval & Data** `ChromaDB` `Pinecone` `PostgreSQL` `Pandas` `PySpark`
+**Shipping it** `FastAPI` `AWS` `Docker` `React` `Git`
 
 <br>
 
-![](https://img.shields.io/badge/CURRENTLY-D4AF37?style=flat-square)
+## Currently
 
 - Deepening agent memory architectures and multi-agent orchestration patterns
 - Writing about agentic AI systems on Medium
@@ -99,7 +94,16 @@ Most people ship a demo and call it done. I care about the parts after the demo:
 <br>
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DaniManas&show_icons=true&theme=transparent&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=F0EAD6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniManas&layout=compact&theme=transparent&hide_border=true&title_color=D4AF37&text_color=F0EAD6&langs_count=6" height="165"/>
+</div>
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/DaniManas/DaniManas/output/github-snake-dark.svg" width="100%"/>
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a3d,100:0a0a0a&height=120&section=footer"/>
 
 </div>
