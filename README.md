@@ -78,19 +78,17 @@ Observability dashboards, tracing, benchmarking, hallucination detection & trust
 
 ---
 
-<!-- GitHub Stats -->
+<!-- Build Evidence -->
 <div align="center">
-  <h2>📈 GitHub Activity</h2>
+  <h2>🚢 Shipped Systems</h2>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniManas&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=7c8cf8&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniManas&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DaniManas&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&fire=7c8cf8&currStreakLabel=00d4ff&sideNums=c9d1d9&currStreakNum=00d4ff&dates=c9d1d9&sideLabels=7c8cf8" />
-</div>
+| System | What it proves | Production signal |
+|---|---|---|
+| **[PR Review Agent](https://github.com/DaniManas/pr-review-agent)** | LangGraph agent reviews PR diffs with RAG-backed vulnerability patterns | AWS Lambda webhook, Supabase run history, LangSmith traces |
+| **[GrantPilot Transit](https://github.com/DaniManas/transit-grant-webapp)** | Grounded drafting flow that refuses to invent missing facts | Claude backend API, deterministic cite-or-skip fallback, tests |
+| **[ChurnPilot AI](https://github.com/DaniManas/churnpilot-ai)** | ML platform beyond a notebook: scoring, batch jobs, monitoring | FastAPI, Streamlit, Docker, EC2, PSI drift checks |
+| **[SynthLift](https://github.com/DaniManas/SynthLift)** | Negative-result ML experiment with clear validation | Stable Diffusion LoRA, ResNet-18, 6-fold cross-validation |
 
 <!-- Contribution Snake -->
 <div align="center">
@@ -162,8 +160,8 @@ Observability dashboards, tracing, benchmarking, hallucination detection & trust
 
 <!-- Writing Section -->
 <div align="center">
-  <h2>✍️ Latest Writing</h2>
-  <i>Thinking out loud about Agentic AI, LLMs, and building things that actually work</i>
+  <h2>✍️ Field Notes</h2>
+  <i>Writing about the gap between an AI demo and a system that survives real users.</i>
 </div>
 
 <br/>
@@ -174,7 +172,7 @@ Observability dashboards, tracing, benchmarking, hallucination detection & trust
 
 **🔗 [Why LangChain Isn't Enough](https://medium.com/@manasdani999/why-langchain-isnt-enough-5-surprising-truths-about-building-real-world-ai-agents-with-langgraph-7b97460c0882)**
 
-*5 Surprising Truths About Building Real-World AI Agents with LangGraph*
+What breaks when a chain becomes a real agent: state, retries, tools, memory, and evaluation.
 
 `#LangGraph` `#AgentArchitecture` `#LLMs`
 
@@ -183,7 +181,7 @@ Observability dashboards, tracing, benchmarking, hallucination detection & trust
 
 **🧠 [Beyond Answering Questions](https://medium.com/@manasdani999/beyond-answering-questions-how-agentic-ai-is-redefining-how-we-work-3d5c651a8fa4)**
 
-*How Agentic AI Is Redefining How We Work*
+Why agentic systems matter when software needs to plan, act, observe, and adapt.
 
 `#AgenticAI` `#FutureOfWork` `#Automation`
 
@@ -201,28 +199,19 @@ Observability dashboards, tracing, benchmarking, hallucination detection & trust
 
 <!-- Current Focus -->
 <div align="center">
-  <h2>🎯 Currently Focused On</h2>
+  <h2>🎯 Current Build Mode</h2>
 </div>
 
-```python
-class ManasDani:
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.education = "MS Data Science @ Indiana University Bloomington"
-        self.currently_building = [
-            "Production-grade multi-agent systems with LangGraph",
-            "RAG pipelines with hybrid retrieval & re-ranking",
-            "LLM evaluation & observability frameworks",
-        ]
-        self.currently_learning = [
-            "Agent memory architectures",
-            "LLM tracing with Langsmith & Arize",
-            "Frontier model fine-tuning",
-        ]
-        self.mission = "Make AI measurable, trustworthy, and scalable"
+```bash
+$ focus --now
+  agent memory architectures
+  RAG quality: retrieval, grounding, citation discipline
+  LLM evaluation: traces, scorecards, failure analysis
+  deployment paths for AI systems that need feedback loops
 
-    def __repr__(self):
-        return f"Building agents that think → {self.mission}"
+$ role --target
+  Forward Deployed AI Engineer
+  AI Engineer / ML Engineer roles where prototype speed meets production judgment
 ```
 
 ---
